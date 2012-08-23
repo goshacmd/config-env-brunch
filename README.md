@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/goshakkk/config-env-brunch.png)](http://travis-ci.org/goshakkk/config-env-brunch)
 ## config-env-brunch
 Adds ability to configure apps via env vars to
 [brunch](http://brunch.io).
